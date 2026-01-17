@@ -1,2 +1,2 @@
 # Vivid
-# An ITD Tool
+An ITD Tool
